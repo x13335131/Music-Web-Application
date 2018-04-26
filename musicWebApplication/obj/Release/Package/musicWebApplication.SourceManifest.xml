@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbDacFx path="H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Release\AutoScripts\MusicLibrary_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <IisApp path="H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>

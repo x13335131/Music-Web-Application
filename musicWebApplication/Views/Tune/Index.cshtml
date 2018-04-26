@@ -1,0 +1,45 @@
+﻿@model IEnumerable<musicWebApplication.Models.Tune>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Tunes</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Artist Name
+        </th>
+        <th>
+            Album Name
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SongName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Djs.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SongName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TuneId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TuneId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TuneId })
+        </td>
+    </tr>
+}
+
+</table>

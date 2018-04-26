@@ -1,0 +1,633 @@
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\System.Collections.Immutable.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe.config
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll.config
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\musicWebApplication.pdb
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\EntityFramework.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Owin.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Http.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Razor.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\WebGrease.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Razor.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.pdb
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Http.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\EntityFramework.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.pdb
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csprojResolveAssemblyReference.cache
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe.config
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\csc.rsp
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\csi.exe
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\csi.rsp
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\System.AppContext.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe.config
+H:\Advanced internet technoligies\ait web app\musicWebApplication\musicWebApplication\bin\roslyn\vbc.rsp
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe.config
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\csc.rsp
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\csi.exe
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\csi.rsp
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\vbc.rsp
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll.config
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\musicWebApplication.pdb
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\EntityFramework.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Owin.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Http.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Razor.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\WebGrease.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\EntityFramework.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Razor.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Http.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.dll
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.pdb
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe.config
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.rsp
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.exe
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.rsp
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.AppContext.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Collections.Immutable.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe.config
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.rsp
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe.config
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll.config
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.pdb
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Owin.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\WebGrease.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.pdb
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate.resources
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csproj.GenerateResource.Cache
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.dll
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.pdb
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate.resources
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csproj.GenerateResource.Cache
+C:\Users\x13335131\Documents\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate1.resources
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csprojResolveAssemblyReference.cache
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate1.resources
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.InitialCreate.resources
+H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.AddAliasField.resources
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe.config
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.rsp
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.exe
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.rsp
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.AppContext.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Collections.Immutable.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe.config
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.rsp
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe.config
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll.config
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.pdb
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Owin.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\WebGrease.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.pdb
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csprojResolveAssemblyReference.cache
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate.resources
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate1.resources
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.InitialCreate.resources
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.AddAliasField.resources
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csproj.GenerateResource.Cache
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.dll
+H:\Loulou\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.pdb
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe.config
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.rsp
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.exe
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.rsp
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.rsp
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll.config
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.pdb
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Owin.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\WebGrease.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate.resources
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate1.resources
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.NewTables.resources
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.NewTables2.resources
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.InitialCreate.resources
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.AddAliasField.resources
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csproj.GenerateResource.Cache
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.dll
+C:\Users\x13335131\Documents\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.pdb
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.exe.config
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csc.rsp
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.exe
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\csi.rsp
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.AppContext.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Collections.Immutable.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.exe.config
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\vbc.rsp
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\roslyn\VBCSCompiler.exe.config
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll.config
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\musicWebApplication.pdb
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Owin.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\WebGrease.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Antlr3.Runtime.pdb
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\EntityFramework.SqlServer.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.Web.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AI.WindowsServer.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.ApplicationInsights.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Newtonsoft.Json.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Helpers.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Mvc.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Optimization.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Razor.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.WebPages.Razor.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Net.Http.Formatting.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\System.Web.Http.WebHost.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csprojResolveAssemblyReference.cache
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate.resources
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.InitialCreate1.resources
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.NewTables.resources
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.NewTables2.resources
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.InitialCreate.resources
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.Migrations.ApplicationDbContext.AddAliasField.resources
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.csproj.GenerateResource.Cache
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.dll
+H:\New folder (2)\ait web app-uptodate\ait web app-uptodate\musicWebApplication\musicWebApplication\obj\Debug\musicWebApplication.pdb

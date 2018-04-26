@@ -1,0 +1,92 @@
+﻿@model musicWebApplication.Models.Festival
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Festival</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Dj Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dj.Name)
+        </dd>
+
+        <dt>
+           Festival Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.FestivalId }) |*@
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Comment
+        </th>
+    </tr>
+
+    @foreach (var item in Model.reviews)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+         </tr>
+    }
+
+</table>
+
+<form action="~/api/reviewapi" method="post">
+    <div class="form-horizontal">
+        <h4>Review</h4>
+        <hr />
+        <div class="form-group">
+            <input type="number" name="FestivalId" id="FestivalId" value="@Model.FestivalId" hidden />
+            <div class="form-group">
+                <label class="control-label col-md-2">Content</label>
+                <div class="col-md-10">
+                    <textarea class="form-control" type="text" name="Content" id="Content"></textarea>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+}
+

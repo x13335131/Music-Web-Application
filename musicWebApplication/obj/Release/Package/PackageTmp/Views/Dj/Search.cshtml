@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<div class="col-md-10">
+        <input type="text" id="DjId" size="5"/>
+        <input type="submit" name="SearchButton" id="SearchButton" value="Search"/>
+</div>
+<br />
+<div id="divProcessing">
+    <p>Processing, please wait...<img src="../../Content/ajax-loader.gif" height="50" ></p>
+</div>
+<br />
+<div id="divResult"></div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script type="text/javascript">
+
+        $(document).ready(function () {
+            $("#divProcessing").hide()
+            $("#SearchButton").click(function () {
+                search();
+            });
+        });
+
+        function search() {
+            $("#divResult").empty();
+            $("#divResult").empty();
+            var DjId = $("#DjId").val();
+            var url = "../api/Dj/" + DjId;
+
+
+            $.ajax({
+                url: url,
+                type: "GET",
+                dataType: "json",
+                success: function (resp) {
+                    $("#divProcessing").hide();
+                    $("<h3>Results</h3>").appendTo("#divResult");
+                    alert("this is workink");
+                    $("#divResult").append("<p>Dj Name: " + resp.Name + "<br/>Genre: " + resp.Genre + "<br/>");
+                    //$("#divResult").append
+                    for (var i = 0; i < resp.Dj.length; i++) {
+                        $("#divResult").append(resp.Dj[i].Name + " " + resp.Dj[i].Genre + "<br/>");
+                    }
+
+                    $("#divResult").append("</p>");
+
+
+                },
+                failure: function (resp) {
+                    $("#divResult").append("<p>Problem!!!</p>");
+                }
+            })
+
+        }
+</script>
+}

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<musicWebApplication.Models.Club>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Clubs</h2>
+<div>
+    <form action="" method="get">
+        <h2>Search by Club Name</h2>
+        <input class="" type="text" id="clubn" name="clubn" />
+        <input type="submit" value="Search" />
+     
+    </form>
+    <p id="result"></p>
+</div>
+
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+<script>
+    var uri = '?clubn=';
+
+    function formatItem(items) {
+        var html = "";
+        for (var i = 0, len = items.length; i < len; i++) {
+            html += "<p class=''>Club: " + items[i].ClubName + ': Price $' + items[i].Price + " Dj: " + items[i].Name + "</p>";
+        }
+        return html;
+    }
+
+    function find() {
+        var clubName = $('#searchKey').val();
+        $.getJSON(uri + clubName)
+          .done(function (data) {
+              $('#result').html(formatItem(data));
+          })
+          .fail(function (jqXHR, textStatus, err) {
+            $('#result').text('Error: ' + err);
+          });
+    }
+</script>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Dj Name
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ClubName)
+        </th>
+        <th>
+           Date
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+       
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClubName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Established)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+       
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ClubId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ClubId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ClubId })
+        </td>
+    </tr>
+}
+
+</table>

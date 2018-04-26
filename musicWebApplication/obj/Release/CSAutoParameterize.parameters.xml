@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MusicLibrary-Web.config Connection String" description="MusicLibrary Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-musicWebApplication-20161120122929.mdf;Initial Catalog=aspnet-musicWebApplication-20161120122929;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\New\ folder\ \(2\)\\ait\ web\ app-uptodate\\ait\ web\ app-uptodate\\musicWebApplication\\musicWebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MusicLibrary']/@connectionString" />
+  </parameter>
+  <parameter name="MusicLibraryContext-Web.config Connection String" description="MusicLibraryContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='H:\Advanced internet technoligies\ait web app-uptodate\musicWebApplication\musicWebApplication\App_Data\MusicLibraryDb.mdf';Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\New\ folder\ \(2\)\\ait\ web\ app-uptodate\\ait\ web\ app-uptodate\\musicWebApplication\\musicWebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MusicLibraryContext']/@connectionString" />
+  </parameter>
+  <parameter name="MusicLibraryContext_DatabasePublish-Web.config Connection String" description="MusicLibraryContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="MusicLibraryContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\New\ folder\ \(2\)\\ait\ web\ app-uptodate\\ait\ web\ app-uptodate\\musicWebApplication\\musicWebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MusicLibraryContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

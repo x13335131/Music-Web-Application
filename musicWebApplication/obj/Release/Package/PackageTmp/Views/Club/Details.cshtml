@@ -1,0 +1,42 @@
+﻿@model musicWebApplication.Models.Club
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Club</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClubName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClubName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Established)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Established)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ClubId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
